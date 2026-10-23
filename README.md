@@ -37,11 +37,6 @@ The left side needed particular attention because I wanted to distinguish the sp
 
 To investigate the microphone's location without opening the laptop, I used my AirPods and QuickTime Player on macOS.
 
-### Equipment and software
-
-- 14-inch MacBook Pro M4 Pro
-- Apple AirPods
-- QuickTime Player
 
 ### Procedure
 
@@ -71,7 +66,7 @@ The right-hand-side grille is another area to consider when trimming and fitting
 2. **Distinguish grilles from microphone openings.** Do not assume every perforation is a microphone.
 3. **Use an audio recording test.** Select the MacBook's built-in microphone as QuickTime's recording input to investigate the pickup area.
 4. **Avoid covering acoustic openings.** Vinyl covering the relevant perforations may affect speaker sound or microphone pickup.
-5. **Trim carefully.** Where practical, trim the wrap around the openings instead of leaving film over them.
+5. **Trim carefully.** Where practical, needle punch the wrap around the openings instead of leaving film over them.
 6. **Test after installation.** Check speaker playback and microphone recording for noticeable changes.
 
 ## Conclusion
